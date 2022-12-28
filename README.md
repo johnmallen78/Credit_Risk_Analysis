@@ -7,7 +7,7 @@ Credit risk is an inherently unbalanced classification problem, as good loans ea
 
 - Using Random Oversampling results we show that balanced accuracy is at 65%. The precision scores for High and Low risk are 0.01% and 1% respectively with recall rates within .10 of each other.
 
-![Random](images/Random.png))
+![Random](images/Random.png)
 
  - SMOTE oversampling gives a very similar result as the Random oversampling model:
 
