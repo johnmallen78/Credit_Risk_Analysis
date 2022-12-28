@@ -1,7 +1,7 @@
 # Credit_Risk_Analysis
 
 ## Overview
-Credit risk is an inherently unbalanced classification problem, as good loans easily outnumber risky loans. We have been challenged to employ several different techniques to train and evaluate models with unbalanced classes. We have been given a dataset from LendingClub, a peer-to-peer lending services company. Our challenge is to over and uncersample the data to evaluate the performance of the models and make a written recommendation on whether they should be used to predict credit risk.
+Credit risk is an inherently unbalanced classification problem, as good loans easily outnumber risky loans. We have been challenged to employ several different techniques to train and evaluate models with unbalanced classes. We have been given a dataset from LendingClub, a peer-to-peer lending services company. Our challenge is to over and undersample the data to evaluate the performance of the models and make a written recommendation on whether they should be used to predict credit risk.
 
 ## Analysis
 
